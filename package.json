@@ -2,7 +2,7 @@
     "name": "technical_task",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://dinrol.github.io/kefir.dinrol.io",
+    "homepage": "https://dinrol.github.io/kefir",
     "scripts": {
         "predeploy": "npm run build",
         "deploy": "gh-pages -d build",
